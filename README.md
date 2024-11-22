@@ -1,4 +1,4 @@
-# Dynamic In-Network Aggregation Framework Benchmark
+# Dynamic In-Network Aggregation
 
 This repository showcases the performance and capabilities of a dynamic in-network aggregation framework using a programmable switch, along with physical workers and a parameter server (PS), based on ATP. The setup includes two physical workers, one physical PS, and a programmable switch.
 
